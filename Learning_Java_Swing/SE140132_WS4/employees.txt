@@ -1,0 +1,3 @@
+HR-Human Resource:
+E001,Nguyen Khoi Nguyen,1000
+E002,Le Trung Hieu,10
