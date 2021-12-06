@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project name="JavaDesktop" default="default" basedir=".">
     <description>Builds, tests, and runs the project JavaDesktop</description>
-    <import file="Lab/*/build.xml"/>
+    <import file="Lab/J2.L.P0006/build.xml"/>
 <!--     <import file="Learning_Java_Swing/**/build.xml"/> -->
 </project>
