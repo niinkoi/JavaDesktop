@@ -10,6 +10,7 @@
 <project name="J2.L.P0006" default="default" basedir=".">
     <description>Builds, tests, and runs the project J2.L.P0006.</description>
     <import file="nbproject/build-impl.xml"/>
+    <antversion>1.8</antversion>
     <!--
 
     There exist several targets which are by default empty and which can be 
